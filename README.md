@@ -1,4 +1,4 @@
-# Black-Box-PacketCapture-CTF-Writeup[README(2).md](https://github.com/user-attachments/files/33923889/README.2.md)
+# Black-Box-PacketCapture-CTF-Writeup [README(2).md](https://github.com/user-attachments/files/33923889/README.2.md)
 # 🗃️ Black Box — PacketCapture CTF Writeup
 
 > **One of the software developers had a hobby project. Confined within the black box, the way inside is not what you seem.**
